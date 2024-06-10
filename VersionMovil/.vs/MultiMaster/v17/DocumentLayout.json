@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|c:\\users\\artur\\onedrive\\escritorio\\mobile\\multimaster_movil\\multimaster\\multimaster\\lector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|solutionrelative:multimaster\\lector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|c:\\users\\artur\\onedrive\\escritorio\\mobile\\multimaster_movil\\multimaster\\multimaster\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|solutionrelative:multimaster\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|c:\\users\\artur\\onedrive\\escritorio\\mobile\\multimaster_movil\\multimaster\\multimaster\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|solutionrelative:multimaster\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|c:\\users\\artur\\onedrive\\escritorio\\mobile\\multimaster_movil\\multimaster\\multimaster\\views\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|solutionrelative:multimaster\\views\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|c:\\users\\artur\\onedrive\\escritorio\\mobile\\multimaster_movil\\multimaster\\multimaster\\views\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|solutionrelative:multimaster\\views\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|c:\\users\\artur\\onedrive\\escritorio\\mobile\\multimaster_movil\\multimaster\\multimaster\\views\\ventanaavances.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|solutionrelative:multimaster\\views\\ventanaavances.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artur\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.21\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|c:\\users\\artur\\onedrive\\escritorio\\mobile\\multimaster_movil\\multimaster\\multimaster\\views\\ventanaavances.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|solutionrelative:multimaster\\views\\ventanaavances.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|c:\\users\\artur\\onedrive\\escritorio\\mobile\\multimaster_movil\\multimaster\\multimaster\\multimaster.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|solutionrelative:multimaster\\multimaster.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|c:\\users\\artur\\onedrive\\escritorio\\mobile\\multimaster_movil\\multimaster\\multimaster\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|solutionrelative:multimaster\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|c:\\users\\artur\\onedrive\\escritorio\\mobile\\multimaster_movil\\multimaster\\multimaster\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|solutionrelative:multimaster\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|c:\\users\\artur\\onedrive\\escritorio\\mobile\\multimaster_movil\\multimaster\\multimaster\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|solutionrelative:multimaster\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|c:\\users\\artur\\onedrive\\escritorio\\mobile\\multimaster_movil\\multimaster\\multimaster\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C419589C-4C2E-4032-AE74-A1F3CD7BF2D3}|MultiMaster\\MultiMaster.csproj|solutionrelative:multimaster\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Persona.cs",
+              "RelativeDocumentMoniker": "MultiMaster\\Persona.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Persona.cs",
+              "RelativeToolTip": "MultiMaster\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:13:30.318Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Cliente.cs",
+              "RelativeDocumentMoniker": "MultiMaster\\Cliente.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Cliente.cs",
+              "RelativeToolTip": "MultiMaster\\Cliente.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAQwC4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:19:05.02Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentanaAvances.xaml",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Views\\VentanaAvances.xaml",
+              "RelativeDocumentMoniker": "MultiMaster\\Views\\VentanaAvances.xaml",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Views\\VentanaAvances.xaml",
+              "RelativeToolTip": "MultiMaster\\Views\\VentanaAvances.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAOgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T23:03:05.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuPage.xaml",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Views\\MenuPage.xaml",
+              "RelativeDocumentMoniker": "MultiMaster\\Views\\MenuPage.xaml",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Views\\MenuPage.xaml",
+              "RelativeToolTip": "MultiMaster\\Views\\MenuPage.xaml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwBYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T16:51:27.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Views\\MenuPage.xaml.cs",
+              "RelativeDocumentMoniker": "MultiMaster\\Views\\MenuPage.xaml.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Views\\MenuPage.xaml.cs",
+              "RelativeToolTip": "MultiMaster\\Views\\MenuPage.xaml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAiwEIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:41:16.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lector.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Lector.cs",
+              "RelativeDocumentMoniker": "MultiMaster\\Lector.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Lector.cs",
+              "RelativeToolTip": "MultiMaster\\Lector.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:27:57.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentanaAvances.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Views\\VentanaAvances.xaml.cs",
+              "RelativeDocumentMoniker": "MultiMaster\\Views\\VentanaAvances.xaml.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Views\\VentanaAvances.xaml.cs",
+              "RelativeToolTip": "MultiMaster\\Views\\VentanaAvances.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:30:48.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\artur\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.21\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.21\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\artur\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.21\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.21\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AQIAAEcCAAAAAAAAAAAvwGcCAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-23T13:54:59.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MultiMaster.csproj",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\MultiMaster.csproj",
+              "RelativeDocumentMoniker": "MultiMaster\\MultiMaster.csproj",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\MultiMaster.csproj",
+              "RelativeToolTip": "MultiMaster\\MultiMaster.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T07:18:56.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MultiMaster\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\MauiProgram.cs",
+              "RelativeToolTip": "MultiMaster\\MauiProgram.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:50:13.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "MultiMaster\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "MultiMaster\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:40:58.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MultiMaster\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\App.xaml.cs",
+              "RelativeToolTip": "MultiMaster\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:51:06.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\App.xaml",
+              "RelativeDocumentMoniker": "MultiMaster\\App.xaml",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Mobile\\MultiMaster_Movil\\MultiMaster\\MultiMaster\\App.xaml",
+              "RelativeToolTip": "MultiMaster\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T03:59:29.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

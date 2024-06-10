@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MultiMaster.Views.HomePage"
+             Title="Login" BackgroundColor="#1b1a32">
+    <ScrollView>
+        <StackLayout VerticalOptions="Center">
+            <Image Source="logo_multi.png" HorizontalOptions="CenterAndExpand" 
+                   VerticalOptions="Center" HeightRequest="150" WidthRequest="1000"/>
+
+            <!--<Entry Placeholder="Usuario" x:Name="txtUsuario" Margin="10" BackgroundColor="#495070" TextColor="White" />-->
+            <!--<Entry Placeholder="Contraseña" IsPassword="True" x:Name="txtContraseña" Margin="10" BackgroundColor="#495070" TextColor="White"/>-->
+            <Picker x:Name= "pckUser" Title="Seleccionar Usuario" TextColor="White"/>
+
+            <Button Text="Ingresar" Clicked="OnIngresarClicked" Margin="10" BackgroundColor="#070A28" TextColor="Azure"/>
+            <Button Text="Borrar" Clicked="OnBorrarClicked" Margin="10" BackgroundColor="#070A28" TextColor="Azure"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
