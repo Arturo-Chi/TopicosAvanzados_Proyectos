@@ -1,0 +1,13 @@
+C:\Users\artur\OneDrive\Escritorio\Paint\bin\Debug\Paint.exe.config
+C:\Users\artur\OneDrive\Escritorio\Paint\bin\Debug\Paint.exe
+C:\Users\artur\OneDrive\Escritorio\Paint\bin\Debug\Paint.pdb
+C:\Users\artur\OneDrive\Escritorio\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Escritorio\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\artur\OneDrive\Escritorio\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\artur\OneDrive\Escritorio\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Escritorio\Paint\obj\Debug\Paint.exe
+C:\Users\artur\OneDrive\Escritorio\Paint\obj\Debug\Paint.pdb
+C:\Users\artur\OneDrive\Escritorio\Paint\obj\Debug\Paint.paintApp.resources
+C:\Users\artur\OneDrive\Escritorio\Paint\bin\Debug\Nose.dll
+C:\Users\artur\OneDrive\Escritorio\Paint\bin\Debug\Nose.pdb
+C:\Users\artur\OneDrive\Escritorio\Paint\obj\Debug\Paint.csproj.Up2Date
