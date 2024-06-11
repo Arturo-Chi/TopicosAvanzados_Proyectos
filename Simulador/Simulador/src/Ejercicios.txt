@@ -1,0 +1,10 @@
+Destapacorchos
+Bancote
+
+
+Ejercicio 9
+Labora desde la 9 h hasta la 17 hastaacude una media de 64 usuarios por día
+Se les resulve el problema en una media de 2.5 m
+
+determinar:
+el tiempo medio de permanencia de un cliente cualquiera
