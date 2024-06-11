@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|c:\\users\\artur\\onedrive\\escritorio\\practica2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|solutionrelative:triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|solutionrelative:cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D3E001-BA6D-4857-B15E-EE06EF6123C0}|Practica2.csproj|solutionrelative:circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:25:51.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Cuadrado.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Cuadrado.cs",
+              "RelativeToolTip": "Cuadrado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T04:47:14.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Triangulo.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Triangulo.cs",
+              "RelativeToolTip": "Triangulo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T04:45:30.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Circulo.cs",
+              "RelativeDocumentMoniker": "Circulo.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Circulo.cs",
+              "RelativeToolTip": "Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T04:14:27.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T03:29:52.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAawGcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T03:38:55.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\artur\\OneDrive\\Escritorio\\Practica2\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAiwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:41:28.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

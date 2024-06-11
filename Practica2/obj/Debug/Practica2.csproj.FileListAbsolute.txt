@@ -1,0 +1,12 @@
+C:\Users\artur\OneDrive\Escritorio\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\artur\OneDrive\Escritorio\Practica2\bin\Debug\Practica2.exe
+C:\Users\artur\OneDrive\Escritorio\Practica2\bin\Debug\Practica2.pdb
+C:\Users\artur\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.Form1.resources
+C:\Users\artur\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+C:\Users\artur\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.csproj.GenerateResource.cache
+C:\Users\artur\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.exe
+C:\Users\artur\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.pdb
+C:\Users\artur\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.FormSecundario.resources
+C:\Users\artur\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.FormPrincipal.resources

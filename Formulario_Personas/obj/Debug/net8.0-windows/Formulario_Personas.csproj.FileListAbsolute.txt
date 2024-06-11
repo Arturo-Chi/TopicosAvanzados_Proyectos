@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\obj\Debug\net8.0-windows\Formulario_Personas.Form1.resources
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\obj\Debug\net8.0-windows\Formulario_Personas.csproj.GenerateResource.cache
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\obj\Debug\net8.0-windows\Formulario_Personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\obj\Debug\net8.0-windows\Formulario_Personas.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\obj\Debug\net8.0-windows\Formulario_Personas.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\obj\Debug\net8.0-windows\Formulario_Personas.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\bin\Debug\net8.0-windows\Formulario_Personas.exe
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\bin\Debug\net8.0-windows\Formulario_Personas.deps.json
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\bin\Debug\net8.0-windows\Formulario_Personas.runtimeconfig.json
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\bin\Debug\net8.0-windows\Formulario_Personas.dll
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\bin\Debug\net8.0-windows\Formulario_Personas.pdb
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\obj\Debug\net8.0-windows\Formulario_Personas.dll
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\obj\Debug\net8.0-windows\refint\Formulario_Personas.dll
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\obj\Debug\net8.0-windows\Formulario_Personas.pdb
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\obj\Debug\net8.0-windows\Formulario_Personas.genruntimeconfig.cache
+C:\Users\artur\OneDrive\Escritorio\Formulario_Personas\obj\Debug\net8.0-windows\ref\Formulario_Personas.dll
