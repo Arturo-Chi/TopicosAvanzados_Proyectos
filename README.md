@@ -1,6 +1,6 @@
 # TopicosAvanzados_Programacion
 
-Dentro de este repositorio, se encuentran respaldados los códigos fuentes del proyecto de la asignatura de Tópicos Avanzados de Programación, que consiste en una aplicación con la que se puedan repasar la diferentes tablas de multipliación.
+Dentro de este repositorio, se encuentran respaldados los códigos fuentes del proyecto de la asignatura de Tópicos Avanzados de Programación, que consiste en una aplicación con la que se puedan repasar la diferentes tablas de multiplicación.
 
 
 -Iván Arturo Chi Mut
