@@ -1,0 +1,26 @@
+[ {
+  "titulo" : "Gato",
+  "isbn" : "jh",
+  "year" : 1945,
+  "paginas" : "15"
+}, {
+  "titulo" : "Perro",
+  "isbn" : "jk",
+  "year" : 1955,
+  "paginas" : "15"
+}, {
+  "titulo" : "Loro",
+  "isbn" : "jj",
+  "year" : 1965,
+  "paginas" : "15"
+}, {
+  "titulo" : "Conejo",
+  "isbn" : "jg",
+  "year" : 1975,
+  "paginas" : "15"
+}, {
+  "titulo" : "ddfvdsv",
+  "isbn" : "Canche",
+  "year" : 23,
+  "paginas" : "wawaw"
+} ]
